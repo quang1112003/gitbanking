@@ -1,0 +1,17 @@
+D:\asp\OnlineBanking\BankingSystemDataAccess\bin\Debug\net6.0\BankingSystemDataAccess.deps.json
+D:\asp\OnlineBanking\BankingSystemDataAccess\bin\Debug\net6.0\BankingSystemDataAccess.runtimeconfig.json
+D:\asp\OnlineBanking\BankingSystemDataAccess\bin\Debug\net6.0\BankingSystemDataAccess.dll
+D:\asp\OnlineBanking\BankingSystemDataAccess\bin\Debug\net6.0\BankingSystemDataAccess.pdb
+D:\asp\OnlineBanking\BankingSystemDataAccess\bin\Debug\net6.0\BankingSystemModels.dll
+D:\asp\OnlineBanking\BankingSystemDataAccess\bin\Debug\net6.0\BankingSystemModels.pdb
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.csproj.AssemblyReference.cache
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.AssemblyInfoInputs.cache
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.AssemblyInfo.cs
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.csproj.CoreCompileInputs.cache
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.csproj.CopyComplete
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.dll
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\refint\BankingSystemDataAccess.dll
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.pdb
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\BankingSystemDataAccess.genruntimeconfig.cache
+D:\asp\OnlineBanking\BankingSystemDataAccess\obj\Debug\net6.0\ref\BankingSystemDataAccess.dll

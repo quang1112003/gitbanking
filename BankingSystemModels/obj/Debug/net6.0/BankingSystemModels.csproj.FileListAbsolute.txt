@@ -1,0 +1,12 @@
+D:\asp\OnlineBanking\BankingSystemModels\bin\Debug\net6.0\BankingSystemModels.deps.json
+D:\asp\OnlineBanking\BankingSystemModels\bin\Debug\net6.0\BankingSystemModels.dll
+D:\asp\OnlineBanking\BankingSystemModels\bin\Debug\net6.0\BankingSystemModels.pdb
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\BankingSystemModels.csproj.AssemblyReference.cache
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\BankingSystemModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\BankingSystemModels.AssemblyInfoInputs.cache
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\BankingSystemModels.AssemblyInfo.cs
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\BankingSystemModels.csproj.CoreCompileInputs.cache
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\BankingSystemModels.dll
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\refint\BankingSystemModels.dll
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\BankingSystemModels.pdb
+D:\asp\OnlineBanking\BankingSystemModels\obj\Debug\net6.0\ref\BankingSystemModels.dll
